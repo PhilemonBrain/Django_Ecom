@@ -355,10 +355,10 @@ li{
 }
 
 .advert-box:nth-child(1){
-    /* background-color: #f5c5d1; */
+    background-color: #f5c5d1;
 }
 .advert-box:nth-child(2){
-    /* background-color: #a1d1df; */
+    background-color: #a1d1df;
 }
 .advert-box:nth-child(3){
     background-color: #e5cb00;
